@@ -1,0 +1,10 @@
+.wrap-container {
+  float: left;
+}
+.card-container {
+  margin: 10px;
+  width: 345px;
+}
+.detail-button{
+  text-decoration: none;
+}
